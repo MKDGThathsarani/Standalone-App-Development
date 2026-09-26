@@ -1,0 +1,17 @@
+# Nested IntelliJ projects
+Day 01 (2026.09.13)/V11/
+Day 01 (2026.09.13)/V21/
+Day 02 (2026.09.20)/V12/
+
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# Build output
+out/
+bin/
+build/
+
+# OS
+.DS_Store
+Thumbs.db
